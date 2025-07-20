@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Orange-Pi-radio")(type "KiCad")(uri "${KIPRJMOD}/LIBRARIES/Orange-Pi-radio.kicad_sym")(options "")(descr ""))
+)
